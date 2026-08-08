@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Juliankhyle-eNnB.aternos.me",
-    "port": 26689,
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
