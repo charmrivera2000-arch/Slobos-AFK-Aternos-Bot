@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Juliankhyle-eNnB.aternos.me",
-    "port": 25565,
+    "ip": "betta.aternos.host",
+    "port": 26689,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YOUR_NEW_PASSWORD_HERE"
+      "password": "chalol78"
     },
     "anti-afk": {
       "enabled": true,
