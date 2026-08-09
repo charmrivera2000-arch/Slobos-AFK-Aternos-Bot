@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "reginsmp.play.hosting",
-    "port": 48585,
+    "ip": "62.141.62.22",
+    "port": 38923,
     "version": "1.20.1",
     "try-creative": false
   },
