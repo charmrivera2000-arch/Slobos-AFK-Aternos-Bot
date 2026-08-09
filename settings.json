@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Juliankhyle-pwsD.aternos.me",
-    "port": 25086,
+    "ip": "reginsmp.play.hosting",
+    "port": 48585,
     "version": "1.20.1",
     "try-creative": false
   },
